@@ -1,0 +1,1 @@
+GameManage.h, Cell.h -> delete "static"

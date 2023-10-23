@@ -1,0 +1,12 @@
+﻿  GameManager.cpp
+c:\users\choi j h\source\repos\gameoflife\gameoflife_student\cell.h(11): warning C4091: 'static ': 변수를 선언하지 않으면 'Cell::state_type' 왼쪽은 무시됩니다.
+c:\users\choi j h\source\repos\gameoflife\gameoflife_student\gamemanager.h(25): warning C4091: 'static ': 변수를 선언하지 않으면 'GameManager::manager_state' 왼쪽은 무시됩니다.
+c:\users\choi j h\source\repos\gameoflife\gameoflife_student\gamemanager.h(30): warning C4091: 'static ': 변수를 선언하지 않으면 'GameManager::rule_type' 왼쪽은 무시됩니다.
+c:\users\choi j h\source\repos\gameoflife\gameoflife_student\gamemanager.cpp(281): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\choi j h\source\repos\gameoflife\gameoflife_student\gamemanager.cpp(282): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main.cpp
+c:\users\choi j h\source\repos\gameoflife\gameoflife_student\cell.h(11): warning C4091: 'static ': 변수를 선언하지 않으면 'Cell::state_type' 왼쪽은 무시됩니다.
+c:\users\choi j h\source\repos\gameoflife\gameoflife_student\gamemanager.h(25): warning C4091: 'static ': 변수를 선언하지 않으면 'GameManager::manager_state' 왼쪽은 무시됩니다.
+c:\users\choi j h\source\repos\gameoflife\gameoflife_student\gamemanager.h(30): warning C4091: 'static ': 변수를 선언하지 않으면 'GameManager::rule_type' 왼쪽은 무시됩니다.
+  코드를 생성하고 있습니다...
+  GameOfLife_student.vcxproj -> C:\Users\Choi J H\source\repos\GameOfLife\x64\Debug\GameOfLife_student.exe
